@@ -1,4 +1,4 @@
-# convella-api
+# english-nouns-api
 
 This is an API written in Rust which fetches *n* English nouns.
 
